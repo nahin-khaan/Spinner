@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Spinner Custom</string>
+    <string-array name="countries">
+        <item>Afganistan</item>
+        <item>Australia</item>
+        <item>Bangladesh</item>
+        <item>Canada</item>
+        <item>China</item>
+
+
+
+    </string-array>
+
+
+    <string-array name="population">
+        <item>5 milion</item>
+        <item>50 milion</item>
+        <item>19 bilion</item>
+        <item>20 milion</item>
+        <item>180 bilion</item>
+
+
+    </string-array>
+</resources>
